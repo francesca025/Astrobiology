@@ -1,2 +1,4 @@
 # Astrobiology
-<img align="left" src="https://github.com/francesca025/astrobiology/assets/126467796/1778012c-3b27-44d1-b1bc-2f5e843f2cc1" alt="planets_icon" width="90"/>This repository contains code written during tutorials for the Computational Astrobiology course at the University of Belgrade.
+
+<img align="left" src="https://github.com/francesca025/Astrobiology/assets/126467796/e8570f1a-74d1-4656-aa50-294442d82813" alt="planets_icon" width="90"/>
+This repository contains code written as part of tutorials for the course 'Computational Astrobiology' at the University of Belgrade (instructor: Andjelka B. Kovacevic).
